@@ -1,0 +1,573 @@
+What does Business Analytics not include?
+Select one:
+a. hardware development
+b. information technology
+c. quantitative methods
+d. statistical analysis
+Clear my choice
+Question 2
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In measures of skewness, absolute skewness is equal to
+Select one:
+a. mean+mode
+b. mean-mode
+c. mean+median
+d. mean-median
+Clear my choice
+Question 3
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following is NOT a basic OLAP operation?
+Select one:
+a. Roll-up
+b. Merge
+c. Drill-down
+d. Pivot
+Clear my choice
+Question 4
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What is the arithmetic mean of the following dataset? 14 35 34 23 12 56 45
+Select one:
+a. 13.1
+b. 23
+c. 31.3
+d. 7
+Clear my choice
+Question 5
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What does Data mining mean?
+Select one:
+a. destroy data
+b. extract valuable information from data
+c. generating new data
+d. cleaning data
+Clear my choice
+Question 6
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Why do we need data sampling?
+Select one:
+a. Data sampling is easier for the data scientists.
+b. Sample selection gives better results than processing an entire population
+c. Sample selection requires less time than selecting every item in a dataset
+d. None of the mentioned
+Clear my choice
+Question 7
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+If value of first quartile is 49 and value of third quartile is 60 then value of inter quartile range is
+Select one:
+a. 21
+b. 31
+c. 41
+d. 11
+Clear my choice
+Question 8
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which problem statement is correctly matched with a type of business analytics?
+Select one:
+a. What are the main reasons for order returns? = Predictive Analysis
+b. How many orders might be returned in the coming month? = Descriptive Analysis
+c. How many orders were returned by the customers? = Diagnostic Analysis
+d. What can the customer buy in exchange of the return order? = Prescriptive Analysis
+Clear my choice
+Question 9
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In a neural network, data flows from
+Select one:
+a. input layer to the output layer bypassing the hidden layer
+b. input layer to the hidden layer to the output layer
+c. input layer to the output layer to the hidden layer
+d. hidden layer to the output layer
+Clear my choice
+Question 10
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Kapoor family bought vegetables for INR 23, 45, 16, 165, 67, 35, and 44. What is the median vegetable price?
+Select one:
+a. 165
+b. 44
+c. 56.4
+d. 16
+Which of the following is a disadvantage of ROLAP model?
+Select one:
+a. Unscalability
+b. High data inefficiency
+c. None of the mentioned
+d. Slow query performances
+Clear my choice
+Question 12
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Mean is also known as
+Select one:
+a. Center
+b. Average
+c. Dispersion
+d. None of the mentioned
+Clear my choice
+Question 13
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following is an advantage of quantitative data?
+Select one:
+a. Very easy to understand
+b. Unlimited options
+c. Specific
+d. No expertise required to process
+Clear my choice
+Question 14
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+If standard deviation of population is 35 and sample size is 9 then standard deviation of sampling distribution is
+Select one:
+a. 12.67
+b. 11.67
+c. 13.67
+d. 14.67
+Clear my choice
+Question 15
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+If total sum of square is 20 and sample variance is 5 then total number of observations are
+Select one:
+a. 2
+b. 100
+c. 4
+d. 10
+Clear my choice
+Question 16
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which type from the following can data be represented in?
+Select one:
+a. Sound
+b. Numbers
+c. All of the mentioned
+d. Images
+Clear my choice
+Question 17
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following can not be determined graphically?
+Select one:
+a. Mode
+b. Mean
+c. none of the mentioned
+d. Median
+Clear my choice
+Question 18
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Choose the example of quantitative data
+Select one:
+a. Weight
+b. Gender
+c. Favorite sport
+d. Address
+Clear my choice
+Question 19
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Examples of applications of range in real world includes
+Select one:
+a. weather forecasts
+b. all of the mentioned
+c. quality control
+d. fluctuation in share prices
+Clear my choice
+Question 20
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Qualitative data are NOT
+Select one:
+a. categorical
+b. textual
+c. None of the mentioned
+d. numerical
+Clear my choice
+
+Which of the following is NOT a popular chart type for data visualization?
+Select one:
+a. Hotspot
+b. Bar
+c. Pie
+d. Histogram
+Clear my choice
+Question 22
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+_________ analysis manipulates figures from multiple data sources to provide valuable information about the past.
+Select one:
+a. Predictive
+b. Descriptive
+c. Diagnostic
+d. Prescriptive
+Clear my choice
+Question 23
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Central tendency is a measure of mean, median, and mode of a dataset
+Select one:
+a. True
+b. False
+Clear my choice
+Question 24
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which is final stage in data mining models?
+Select one:
+a. Evaluation
+b. Maintenance
+c. Staging
+d. Deployment
+Clear my choice
+Question 25
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+If a company wants to identify which product is a person more likely to buy based on where he lives, which Data mining technique should be used?
+Select one:
+a. Other
+b. Regression
+c. Classification
+d. Clustering
+Clear my choice
+Question 26
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+If arithmetic mean is multiplied to coefficient of variation then resulting value is classified as
+Select one:
+a. variance
+b. coefficient of mean
+c. coefficient of deviation
+d. standard deviation
+Clear my choice
+Question 27
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following is a method of descriptive analysis?
+Select one:
+a. Observation Method
+b. All of the mentioned
+c. Survey Mentioned
+d. Case Study Method
+Clear my choice
+Question 28
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Mode is the
+Select one:
+a. none of the mentioned
+b. least frequent value
+c. middle most frequent value
+d. maximum frequent value
+Clear my choice
+Question 29
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Determine the geometric mean of the following set of numbers 1 4 16 64 256
+Select one:
+a. 16
+b. 4
+c. 24
+d. 64
+Clear my choice
+Question 30
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following is a data mining technique?
+Select one:
+a. Clustering
+b. All of the mentioned
+c. Classification
+d. Regression
+
+Question 31
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What does OLAP stands for
+Select one:
+a. Onset Analytical Page
+b. Offline Analytical Processing
+c. Online Analytical Processing
+d. On Another Point
+Clear my choice
+Question 32
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Rows of a decision table in rough set theory corresponds to ____________ and columns correspond to _________
+Select one:
+a. features, classes
+b. features, objects
+c. objects, classes
+d. objects, features
+Clear my choice
+Question 33
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Choose the correct option where G represents geometric mean, A represents Arithmetic mean, and H represents Harmonic mean
+Select one:
+a. A = √GH
+b. G = √AH
+c. H = √GA
+d. G = AH
+Clear my choice
+Question 34
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The arithmetic mean of 3 numbers is 8. If two of these 3 numbers are 4 and 6, what is the third number?
+Select one:
+a. 14
+b. 3
+c. 24
+d. 12
+Clear my choice
+Question 35
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Function to calculate standard deviation in excel sheets is
+Select one:
+a. SDEV
+b. STVDEV
+c. STBDEV
+d. STDEV
+Clear my choice
+Question 36
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The process of cleaning and transforming data is called
+Select one:
+a. Data mopping
+b. Data Preparation
+c. Data Mining
+d. Data Crunching
+Clear my choice
+Question 37
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Harmonic mean is defined as
+Select one:
+a. sum of all the numbers of a dataset
+b. None of the mentioned
+c. reciprocal of the arithmetic mean of a datset
+d. square root of geometric mean of a dataset
+Clear my choice
+Question 38
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+If first quartile and third quartile are as 32 and 35 respectively with median of 20 then distribution is skewed to
+Select one:
+a. lower tail
+b. close end tail
+c. open end tail
+d. upper tail
+Clear my choice
+Question 39
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Diagnostic analysis tell us what might happen in the future using the data from the past.
+Select one:
+a. True
+b. False
+Clear my choice
+Question 40
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The method of locating the median depends on
+Select one:
+a. Highest and lowest values in a dataset
+b. Number of negative values in a dataset
+c. Avergae value in a dataset
+d. Number of values in a dataset
+Which of the following is a disadvantage of qualitative data?
+Select one:
+a. Difficult to identify patterns
+b. Difficult to understand
+c. Does not provide explanation
+d. Lesser reachability
+Clear my choice
+Question 42
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+OLTP supports only those operations which are
+Select one:
+a. undefined
+b. both defined and undefined
+c. already defined
+d. None of the mentioned
+Clear my choice
+Question 43
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Characteristic rule is an assertion which
+Select one:
+a. discriminates the concepts of one class from another
+b. categorizes the concepts which are satisfied by all the data stored
+c. classifies the set of relevant data according to one or more specific attributes
+d. none of the mentioned
+Clear my choice
+Question 44
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Choose the goal(s) of OLTP
+Select one:
+a. availability
+b. concurrency
+c. All of the mentioned
+d. speed
+Clear my choice
+Question 45
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Discrete variables and continuous variables are two types of
+Select one:
+a. quantitative analysis
+b. time series analysis
+c. open ended analysis
+d. qualitative analysis
+Clear my choice
+Question 46
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Diagrams such as cubes and cylinders are classified as
+Select one:
+a. two-dimensional diagram
+b. one-dimensional diagram
+c. dispersion diagram
+d. three-dimensional diagram
+Clear my choice
+Question 47
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+CRISP-DM stands for Cross-Interface Standard Process for Data Mining
+Select one:
+a. True
+b. False
+Clear my choice
+Question 48
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Variables whose measurement is done in terms such as weight, height and length are classified as
+Select one:
+a. flowchart variables
+b. discrete variables
+c. continuous variables
+d. measuring variables
+Clear my choice
+Question 49
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The odds ratio is defined as the ratio of
+Select one:
+a. odds of A in absence of B
+b. odds of A in presence of B
+c. None of the mentioned
+d. both odds of A in presence and absence of B
+Clear my choice
+Question 50
+Answer saved
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A graph of normal distribution of a variable is known as
+Select one:
+a. Bell curve
+b. Linear curve
+c. Exponential curve
+d. Bat curve
+Clear my choice

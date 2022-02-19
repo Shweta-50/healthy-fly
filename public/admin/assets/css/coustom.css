@@ -1,0 +1,106 @@
+.header-logo {
+    -webkit-animation: float 6s ease-in-out infinite;
+    animation: float 6s ease-in-out infinite;
+}
+.header-navbar-rht .header-log-btn:hover {
+    background-image: linear-gradient(to right, #2f80c7, #09e5ab);
+}
+
+/* testimonial */
+.testimonial-section .doc-img img {
+    border-radius: 4px;
+    transform: translateZ(0);
+    transition: all 2000ms cubic-bezier(0.19, 1, 0.22, 1) 0ms;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+.test-card:hover {
+    background-image: linear-gradient(to right, #09e5ab, #2f80c7);
+    box-shadow: 0px 0px 10px #09e5ab;
+}
+.section-doctor {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+}
+
+/* end-testimonial */
+
+/* Contact Us */
+
+.Contact-form {
+    margin-left: 80px;
+    padding: auto;
+}
+.cont-btn {
+    width: 150px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px whitesmoke;
+}
+.Contact-img {
+    margin-left: 40px;
+    margin-bottom: 150px;
+}
+.cont-box {
+    color: white !important;
+}
+.cont-section {
+    height: 70%;
+}
+
+/* End Contact Us */
+
+/* doctoeAppointment */
+.appoit-input:hover {
+    box-shadow: 0px 0px 7px #09e5ab;
+}
+
+.appint-btn {
+    margin-left: 20px;
+}
+/* end doctoeAppointment */
+/* Appointment form */
+/* .testimonial-section .appoint-img {
+    -webkit-animation: float 6s ease-in-out infinite;
+    animation: float 6s ease-in-out infinite;
+} */
+
+@keyframes float {
+    0% {
+        /* box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6); */
+        transform: scale(1);
+    }
+    50% {
+        /* box-shadow: 0 25px 15px 0px rgba(0, 0, 0, 0.2); */
+        transform: scale(1.1);
+    }
+    100% {
+        /* box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6); */
+        transform: scale(1);
+    }
+}
+
+.appoi-btn {
+    width: 175px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px whitesmoke;
+}
+
+input[type="file"]::file-selector-button {
+    background-color: #2f80c7;
+    color: white;
+    border-radius: 50px;
+    padding: 3px;
+    width: 150px;
+}
+
+/* End Appointment form */
+/* doctor sidebar */
+/* .doct-sidebar {
+    background-image: linear-gradient(to right, #09e5ab, #2f80c7);
+    color: white;
+} */
+/* doctor sidebar */
+
+@media only screen and (max-width: 767.98px) {
+}
