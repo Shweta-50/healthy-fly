@@ -19,7 +19,7 @@ class DoctorInvoiceController extends Controller
     {
         $transaction = Payment::where('doc_id', Auth::user()->id)->get();
 
-        return view('Frontend.Doctor.doctor_invoice', ['transaction' => $transaction]);
+        return view('Frontend.doctor.doctor_invoice', ['transaction' => $transaction]);
     }
 
     /**

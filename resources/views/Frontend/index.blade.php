@@ -17,7 +17,7 @@
         <!-- Mask & flexbox options-->
         <div class="mask rgba-gradient align-items-center">
           <!-- Content -->
-          <div class="container " style="height: 99vh;">
+          <div class="container hero-intro " style="height: 99vh;">
             <!--Grid row-->
             <div class="row " style="padding-top:100px;">
               <!--Grid column-->
@@ -52,7 +52,8 @@
 </section>
 
 
-
+<!-- Return to Top -->
+<a href="javascript:" id="return-to-top"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
 			<!-- Clinic and Specialities -->
 			<section class="section section-specialities">
 				<div class="container-fluid">
@@ -207,17 +208,7 @@
                                                 @else
                                                 <a href="{{'/patient/appointment'}}/{{$doctor->id}}" class="btn book-btn">Book Now</a>
                                                 @endif
-
                                                 @endif
-
-
-
-
-
-
-
-
-
 											</div>
 										</div>
 									</div>
@@ -519,6 +510,23 @@
 
      }
  </script>
+
+
+<script>
+    // ===== Scroll to Top ====
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+        $('#return-to-top').fadeIn(200);    // Fade in the arrow
+    } else {
+        $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+    }
+});
+$('#return-to-top').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 500);
+});
+</script>
 			@endsection
 @include('Frontend.layouts.scripts')
 

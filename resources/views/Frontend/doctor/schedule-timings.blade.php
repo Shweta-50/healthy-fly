@@ -161,7 +161,7 @@
 
 											</div>
                                             {{-- edit --}}
-                                        <div class="col-md-10 col-sm-10  mt-3 mb-5"style="margin-left:40px;">
+                                        <div class="col-md-10 col-sm-10 shadow mt-3 mb-5"style="margin-left:40px;">
                                             <table class="table table-striped table-hover">
                                                 <thead>
                                                     <tr>

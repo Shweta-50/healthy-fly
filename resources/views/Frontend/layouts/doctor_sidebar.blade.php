@@ -14,8 +14,8 @@
 
                         @endif
                     </a>
-                    <div class="profile-det-info">
-                        <h3>{{ Auth::user()->name }}</h3>
+                    <div class="profile-det-info mb-0">
+                        <h3 class="text-center font-weight-bolder">{{ Auth::user()->name }}</h3>
 
                         <div class="patient-details">
                             <h5 class="mb-0">{{ Auth::user()->education }}</h5>

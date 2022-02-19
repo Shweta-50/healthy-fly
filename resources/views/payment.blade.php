@@ -19,6 +19,9 @@ session_start();
         margin-right: 600px;
         margin-bottom: 100px;
     }
+    body{
+        font-family: "Open Sans", sans-serif !important;
+    }
 </style>
 
 </head>
@@ -50,8 +53,8 @@ session_start();
 				<div class="container">
 
 					<div class="row">
-						<div class="col-md-7 col-lg-8">
-							<div class="card">
+						<div class="col-md-7 col-lg-8 ">
+							<div class="card shadow">
 								<div class="card-body">
 
 
@@ -138,7 +141,7 @@ session_start();
 						<div class="col-md-5 col-lg-4 theiaStickySidebar">
 
 							<!-- Booking Summary -->
-							<div class="card booking-card">
+							<div class="card booking-card shadow">
 								<div class="card-header">
 									<h4 class="card-title">Booking Summary</h4>
 								</div>

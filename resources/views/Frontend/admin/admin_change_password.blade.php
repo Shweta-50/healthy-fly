@@ -73,7 +73,7 @@
 
                                      </div>
                                      <div class="col-md-7 col-sm-11 col-lg-6 mt-3">
-                                        <img src="{{asset('assets/img/password.svg')}}" alt="User Image" height="400" width="400" class="animate__animated animate__pulse animate__infinite infinite">>
+                                        <img src="{{asset('assets/img/password.svg')}}" alt="User Image" height="400" width="400" class="animate__animated animate__pulse animate__infinite infinite">
                                     </div>
 
 

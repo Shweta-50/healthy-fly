@@ -181,9 +181,10 @@
                 <div class="row">
                   <!--Grid column-->
                   <div class="col-md-6 white-text text-center text-md-left mt-xl-5 wow fadeInLeft" data-wow-delay="0.3s">
-                    <h1 class="h1-responsive blog-h font-weight-bold text-white title-part mt-sm-5   animate__animated animate__bounceInLeft" style="margin-top:10rem!important;">Blogs </h1 >
+                    <h1 class="h1-responsive blog-h font-weight-bold text-white title-part mt-sm-4   animate__animated animate__bounceInLeft" style="margin-top:10rem!important;">Blogs </h1 >
                     <hr class="hr-light">
                     <h3 class="mb-4 text-white  animate__animated animate__backInRight">“Calm mind brings inner strength and self-confidence, so that’s very important for good health. Nothing more important than our good health that’s our principal capital asset.”</h3>
+                    <a href="#blog-target" class="btn  btn-info btn-rounded  btn-lg animate__animated animate__bounceInLeft shadow">Read More..</a>
 
                   </div>
                   <!--Grid column-->
@@ -210,13 +211,13 @@
 
 
 
-<div class="container">
+<div class="container" id="blog-target">
     <h1 class="text-center mt-5"> Our Latest Blogs..!!</h1>
     <div class="container">
         <div class="row pt-5 m-auto">
             @foreach ( $blogs as $blog )
 
-          <div class="col-md-6 col-lg-4 pb-3">
+          <div class="col-md-6 col-lg-4 pb-3" >
 
             <!-- Add a style="height: XYZpx" to div.card to limit the card height and display scrollbar instead -->
             <div class="card card-custom bg-white border-white border-0 " data-aos="flip-left"
@@ -234,7 +235,7 @@
               </div>
               <div class="card-footer" style="background: inherit; border-color: inherit;">
                 {{-- <a href="#" class="btn btn-primary">Read more</a> --}}
-                <a href="{{'/doctor/doctor_view_profile'}}/{{$blog->doc_id}}" class="btn btn-primary">View Profile</a>
+                <a href="{{'/doctor/doctor_view_profile'}}/{{$blog->doc_id}}" class="btn btn-primary btn-rounded shadow">View Profile</a>
 
                 <ul id="icon">
                     <li><a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>

@@ -48,7 +48,7 @@ class DoctorSideBlogController extends Controller
 
 
         $blog->save();
-        return redirect()->back()->with('status', 'Thank you for giving your valueable blog 👍');
+        return redirect()->back()->with('status', 'Thank you for giving your valueable blog');
     }
 
     /**
