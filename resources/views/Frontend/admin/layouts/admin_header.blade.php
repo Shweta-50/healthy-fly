@@ -47,6 +47,22 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+body::-webkit-scrollbar {
+    width: 1em;
+    padding: 4px;
+}
+
+body::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(to right, #2f80c7, #09e5ab);
+    border-radius: 10px;
+}
         </style>
     </head>
     <body>

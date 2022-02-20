@@ -26,7 +26,7 @@
                 <hr class="hr-light">
                 <h3 class="mb-4 text-white animate__animated animate__backInRight" >“Your Most Trusted Health Partner for Life, so Putting your health in a good and safe hands. Be aware about health and live life peacefully.”</h3>
                 <h5 class="text-white animate__animated animate__bounceInLeft">Emergency 24*7 Available For You</h5>
-                <button type="button" class="btn  btn-danger btn-rounded  btn-lg animate__animated animate__bounceInLeft"> + 91 9120644599 <i class="fa fa-phone"></i></button>
+                <a href="tel:+1888 5555 55" class="btn  btn-danger btn-rounded text-white btn-lg animate__animated animate__bounceInLeft"> 1888 5555 55 <i class="fa fa-phone"></i></a>
 
               </div>
               <!--Grid column-->

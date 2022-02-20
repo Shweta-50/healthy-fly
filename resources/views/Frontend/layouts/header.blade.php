@@ -129,13 +129,7 @@
 body{
     transition: all linear 0.3s;
 }
-
-
         </style>
-
-
-
-
 
 	</head>
 	<body style="background-color:white;">
@@ -163,30 +157,30 @@ body{
 					<div class="main-menu-wrapper d-print-none">
 						<div class="menu-header">
 							<a href="index-2.html">
-								<img src="{{asset('assets/img/LOGO.png')}}" alt="Logo" height="70px" >
+								<img src="{{asset('assets/img/LOGO.png')}}" alt="Logo" height="50px" >
 							</a>
 
 						</div>
-						<ul class="main-nav">
+						<ul class="main-nav" style="z-index: 99!important;">
 
-							<li class="active">
+							<li >
 								<a href="{{asset('/')}}">Home</a>
 							</li>
-							<li class="has-submenu">
+							<li>
 								<a href="{{asset('/doctor_list')}}">Consultants</i></a>
 							</li>
-                            <li class="has-submenu">
+                            <li>
 								<a href="{{asset('/doctor/doctor_blog')}}">Doctor's blogs</i></a>
 							</li>
-                            <li class="has-submenu">
+                            <li>
 								<a href="{{asset('/contact')}}">Contact us</i></a>
 							</li>
-                            <li class="has-submenu">
+                            <li>
 								<a href="{{asset('/other/hospital')}}">Other Informations</i></a>
 							</li>
 
 							<li class="login-link">
-								<a href="">Login / Signup</a>
+								<a href="/register">Login / Signup</a>
 
 							</li>
                             {{-- <button type="button" class="btn btn-sm btn-dark " name="dark_light" onclick="toggleDarkMode()" title="Toggle dark/light mode">🌛</button> --}}

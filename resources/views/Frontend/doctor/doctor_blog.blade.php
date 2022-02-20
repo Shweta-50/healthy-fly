@@ -234,14 +234,16 @@
 
               </div>
               <div class="card-footer" style="background: inherit; border-color: inherit;">
-                {{-- <a href="#" class="btn btn-primary">Read more</a> --}}
+
                 <a href="{{'/doctor/doctor_view_profile'}}/{{$blog->doc_id}}" class="btn btn-primary btn-rounded shadow">View Profile</a>
+
 
                 <ul id="icon">
                     <li><a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
                     <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
                     <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
                   </ul>
+
 
               </div>
             </div>

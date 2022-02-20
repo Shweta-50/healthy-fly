@@ -13,7 +13,7 @@
 						<div class="col-md-12 col-12">
 							<nav aria-label="breadcrumb" class="page-breadcrumb">
 								<ol class="breadcrumb">
-									<li class="breadcrumb-item"><a href="">Holistic Health</a></li>
+									<li class="breadcrumb-item"><a href="">Healthifly</a></li>
 									<li class="breadcrumb-item active" aria-current="page">Doctor Profile</li>
 								</ol>
 							</nav>
@@ -36,10 +36,10 @@
                 <div class="card-body">
                     <div class="doctor-widget">
                         <div class="doc-info-left">
-                            <div class="doctor-img ml-5">
-                                <img src="/uploads/Images/{{$doctor->profile_photo}}" class="img-fluid img-doct_list shadow" alt="User Image" style="height:260px!important; max-width:175%!important;">
+                            <div class="doctor-img ">
+                                <img src="/uploads/Images/{{$doctor->profile_photo}}" class=" img-doct_list shadow " alt="User Image" style="height:223px!important; width:245px!important;">
                             </div>
-                            <div class="doc-info-cont mt-3" style="margin-left: 124px!important;">
+                            <div class="doc-info-cont doct-list-text  mt-3">
                                 <h4 class="doc-name text-light">{{$doctor->name}}</h4>
                                 <p class="doc-speciality text-light" style="font-size: 15px;">{{$doctor->education}}</p>
                                 <p class="doc-department text-light">{{$doctor->specilist}}</p>

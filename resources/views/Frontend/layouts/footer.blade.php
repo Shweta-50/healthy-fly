@@ -127,18 +127,14 @@
             <!-- Copyright -->
             <div class="copyright">
                 <div class="row">
-                    <div class="col-md-6 col-lg-6">
-                        <div class="copyright-text">
-                            {{-- <p class="mb-0"><a href="templateshub.net">Templates Hub</a></p> --}}
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6">
+
+                    <div class="col-md-12 col-lg-12">
 
                         <!-- Copyright Menu -->
                         <div class="copyright-menu">
-                            <ul class="policy-menu">
-                                <li><a href="">Terms and Conditions</a></li>
-                                <li><a href="">Policy</a></li>
+                            <ul class="policy-menu text-center">
+                                <li><a href="https://github.com/HealthCare-heroes/HealthGuider">Design & Develop By The Coder Queens</a></li>
+
                             </ul>
                         </div>
                         <!-- /Copyright Menu -->

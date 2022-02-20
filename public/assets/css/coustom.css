@@ -407,7 +407,7 @@ input[type="file"]::file-selector-button {
     }
     .blog-h {
         margin-top: 200px !important;
-        font-size: 40px;
+        font-size: 1.5rem;
     }
     .hero-intro .blog-h {
         margin-top: 69px !important;
@@ -417,13 +417,34 @@ input[type="file"]::file-selector-button {
         display: none;
     }
 
-    .doctor-img .img-fluid {
-        margin-left: -55px !important;
+    .barcode {
+        margin-left: 50px !important;
+    }
+    .doctor-action {
+        margin-left: 50px !important;
+    }
+    .img-doct_list {
+        margin-right: 30px !important;
+    }
+    #icon {
+        display: none !important;
+    }
+    .other-heading {
+        margin-right: 38px !important;
     }
 }
-/* mobile */
-@media only screen and (max-width: 575.98px) {
+
+@media only screen and (min-width: 998px) {
     .doc-info-cont {
-        margin-right: 20px !important;
+        margin-left: 30px;
+    }
+    .img-doct_list {
+        margin-left: 30px !important;
+    }
+    .doctor-img {
+        -ms-flex: 0 0 150px;
+        flex: 0 0 150px;
+        margin-right: 20px;
+        width: 100%;
     }
 }

@@ -276,11 +276,11 @@
           <div class="row ml-5">
 
             <!--Grid column-->
-            <div class="col-md-12 col-lg-11 white-text text-center text-md-left mt-xl-5 wow fadeInLeft " data-wow-delay="0.3s">
-                <h2 class="text-center " style="margin-top: 50px!important;">Top 3 Best Hospitals</h2>
+            <div class="col-md-11 col-lg-11 col-sm-11 white-text text-center text-md-left mt-xl-5 wow fadeInLeft " data-wow-delay="0.3s">
+                <h2 class="text-center other-heading" style="margin-top: 50px!important;">Top 3 Best Hospitals</h2>
                 <hr class=" animate__animated  animate__zoomIn  animate__infinite "
                   style="width:200px; background-color:red; height: 4px; margin: 4px auto;"><br>
-              <ul class="box">
+              <ul class="box  ">
                 <li class="box1">
                   <div class="section-title" style="background-color: #2f80c7;">
                     <h2>Cancer</h2>
@@ -345,7 +345,7 @@
 
                     </div>
                   </li>
-
+              </ul>
 
 
             <!--Grid column-->

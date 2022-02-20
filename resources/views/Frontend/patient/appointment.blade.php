@@ -4,17 +4,17 @@
 
 
 <!-- Breadcrumb -->
-<div class="breadcrumb-bar">
+<div class="breadcrumb-bar" style="margin-top: 50px;">
     <div class="container-fluid">
         <div class="row align-items-center">
             <div class="col-md-12 col-12">
-                <nav aria-label="breadcrumb" class="page-breadcrumb">
+                <nav aria-label="breadcrumb" class="page-breadcrumb mt-2">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Booking</li>
+                        <li class="breadcrumb-item active" aria-current="page">Appointment</li>
                     </ol>
                 </nav>
-                <h2 class="breadcrumb-title">Booking</h2>
+                <h2 class="breadcrumb-title">Appointment Booking</h2>
             </div>
         </div>
     </div>

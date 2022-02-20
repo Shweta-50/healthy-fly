@@ -59,12 +59,12 @@
                                  </td>
                                  <td>₹ {{$data->amount}}</td>
                                  <td>{{$data->created_at}}</td>
-                                 @if ($data->payment_done===1)
+                                 @if ($data->payment_done)
                                  <td class="text-center">
                                      <span class="badge badge-pill bg-success text-white py-1 px-3 inv-badge">Paid</span> </td>
                                      @else
-                                     <td>
-                                         <span class="badge badge-pill bg-danger text-white ml-5 py-1 px-3 inv-badge">Unpaid</span>
+                                     <td class="text-center">
+                                         <span class="badge badge-pill bg-danger text-white py-1 px-3 inv-badge">Unpaid</span>
                                     </td>
                                      @endif
                                  <td >

@@ -51,8 +51,8 @@
                                         {{-- <td>$3100.00</td> --}}
 
                                         <td>
-                                            <div class="status-toggle">
-                                                <input type="checkbox" id="status_1" class="check" checked>
+                                            <div class="status-toggle ">
+                                                <input type="checkbox" id="status_1" class="check" checked readonly disabled>
                                                 <label for="status_1" class="checktoggle">checkbox</label>
                                             </div>
                                         </td>
