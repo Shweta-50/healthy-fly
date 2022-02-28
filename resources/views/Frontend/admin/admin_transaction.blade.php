@@ -57,7 +57,7 @@
                                         </td>
                                         <td><i class="fa fa-rupee"> {{$data->amount}}</td>
                                         <td class="text-center">
-                                            @if ($data->payment_done===1)
+                                            @if ($data->payment_done)
                                             <span class="badge badge-pill bg-success inv-badge">Paid</span>
                                             @else
                                                 <span class="badge badge-pill bg-danger inv-badge">Unpaid</span>
